@@ -1,4 +1,4 @@
-**Data Warehouse and ETL Pipeline Project**
+**Data Warehouse and ETL Pipeline Project** \n
 **Overview**
 This repository contains a comprehensive semester project focused on creating a data warehouse and an ETL pipeline, culminating in a Power BI dashboard. The project utilizes multiple software tools and technologies, including SQL Server Management Studio, Visual Studio (SSIS), Visual Studio Code (Python), and Power BI Desktop & Web. The aim is to transform raw data into a structured star schema, ensuring data integrity and providing meaningful business insights through visualization.
 
